@@ -1,1 +1,1 @@
-# Li-Fi-Technology
+# Li-Fi Technology
